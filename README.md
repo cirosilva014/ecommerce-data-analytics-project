@@ -1,6 +1,6 @@
 #  Dashboard Automatizado de Control de Ventas e Indicadores Comerciales (E-Commerce)
 
-## 📝 Descripción del Proyecto
+##  Descripción del Proyecto
 Diseño e implementación de un flujo de datos de punta a punta (End-to-End) para el monitoreo y análisis de KPIs de un negocio de comercio electrónico ficticio. El objetivo principal fue centralizar información relacional dispersa, estructurar un modelo de datos robusto con buenas prácticas de BI y automatizar la visualización de métricas financieras y operativas clave para la toma de decisiones estratégicas.
 
 ---
